@@ -354,7 +354,7 @@ function App() {
       <header>
         <img src={Logo} alt="logo" />
       </header>
-      <PrettoSlider valueLabelDisplay="auto" aria-label="pretto slider" defaultValue={1935} marks={marks} min={1848} max={2022} onChange={handleSliderChange} onChangeCommitted={handleSliderChange} />
+      <PrettoSlider valueLabelDisplay="auto" aria-label="pretto slider" defaultValue={1935} marks={marks} min={1848} max={2027} onChange={handleSliderChange} onChangeCommitted={handleSliderChange} />
       <Presidents selectedPresidents={selectedPresidents} />
     </div>
   );
