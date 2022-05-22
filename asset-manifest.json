@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3a967674.css",
-    "main.js": "/static/js/main.eea5ea9f.js",
+    "main.js": "/static/js/main.05ca9ca3.js",
     "static/js/787.13a908de.chunk.js": "/static/js/787.13a908de.chunk.js",
     "static/media/mitterrand.jpeg": "/static/media/mitterrand.8286683e774ef31f185f.jpeg",
     "static/media/degaulle.jpeg": "/static/media/degaulle.4c3952cee3bd2cc66f5f.jpeg",
@@ -31,11 +31,11 @@
     "static/media/logo.svg": "/static/media/logo.6e40b78cb1255e6d0505212aff245b6b.svg",
     "index.html": "/index.html",
     "main.3a967674.css.map": "/static/css/main.3a967674.css.map",
-    "main.eea5ea9f.js.map": "/static/js/main.eea5ea9f.js.map",
+    "main.05ca9ca3.js.map": "/static/js/main.05ca9ca3.js.map",
     "787.13a908de.chunk.js.map": "/static/js/787.13a908de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a967674.css",
-    "static/js/main.eea5ea9f.js"
+    "static/js/main.05ca9ca3.js"
   ]
 }
