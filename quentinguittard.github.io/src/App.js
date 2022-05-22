@@ -265,7 +265,7 @@ const allPresidents = [
     'id': 25,
     'name': 'Emmanuel Macron',
     'start': 2017,
-    'end': 2022,
+    'end': 2027,
     'description': "Emmanuel Macron, né le 21 décembre 1977 à Amiens (France), est un haut fonctionnaire, banquier d'affaires et homme d'État français. Il est président de la République française depuis le 14 mai 2017.",
     'link': "https://fr.wikipedia.org/wiki/Emmanuel_Macron",
     'image': Macron
@@ -290,8 +290,8 @@ const marks = [
     label: '2000',
   },
   {
-    value: 2022,
-    label: '2022',
+    value: 2027,
+    label: '2027',
   }
 ];
 
